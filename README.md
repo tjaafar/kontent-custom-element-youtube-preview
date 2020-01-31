@@ -1,4 +1,4 @@
-# TEMPLATE Custom Element for Kentico Kontent
+# YouTube preview custom element for Kentico Kontent
 
 This is a [custom element](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features) for [Kentico Kontent](https://kontent.ai) that allows users to add various types of youtube video url, it extracts the video id for your apps and shows the video.
 
