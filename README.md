@@ -8,7 +8,7 @@ This is a [custom element](https://docs.kontent.ai/tutorials/develop-apps/integr
 
 1. Deploy the code to a secure public host
     * See [deploying section](#Deploying) for a really quick option
-1. Follow the instructions in the [Kentico Kontent documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features#a-3--displaying-a-custom-element-in-kentico-kontent) to add the element to a content model.
+1. Follow the instructions in the [custom element documentation](https://kontent.ai/learn/tutorials/develop-apps/integrate/content-editing-extensions#a-displaying-your-custom-editor-in-kontent) to add the element to a content model.
     * The `Hosted code URL` is where you deployed to in step 1
     * You can optionally change the size of the preview by passing parameters as directed in the [JSON Parameters configuration](#json-parameters) section of this readme.
 
